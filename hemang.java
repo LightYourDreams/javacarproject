@@ -2,7 +2,7 @@ import java.applet.*;
 import java.awt.*;
 import java.awt.event.*; 
 
-public class niket extends Applet implements ActionListener {
+public class hemang extends Applet implements ActionListener {
     int a=0,b=0,c=0,f=0,x=0,y=0;
     Button u = new Button("Up");
     Button d = new Button("Down");
@@ -54,6 +54,6 @@ public class niket extends Applet implements ActionListener {
     }
 }  
 /* 
-<applet code="niket.class" width="1000" height="1000"> 
+<applet code="hemang.class" width="1000" height="1000"> 
 </applet> 
 */
